@@ -1,0 +1,6 @@
+matplotlib
+cmake
+dlib
+face_recognition
+pandas
+pandas_profiling
