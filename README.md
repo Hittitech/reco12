@@ -7,7 +7,7 @@ run app.py file
 ---->>>>>open camera and after closing the camera we need to run the app.py file again to run the app
 it continously recognize faces until we press close cam button
 update button on second page is used to analyse data
-
+    v
 ![Screenshot (48)](https://github.com/Hittitech/reco12/assets/87484115/bc0c203d-1a24-4542-837e-2032750b591c)
 ![Screenshot (49)](https://github.com/Hittitech/reco12/assets/87484115/40e6c76e-bfef-4c32-8c61-aa4ba96526d1)
 ![Screenshot (50)](https://github.com/Hittitech/reco12/assets/87484115/c358cad9-61b5-4e15-b889-f3f9909cb85a)
